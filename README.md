@@ -1,0 +1,2 @@
+# Manduub-Android
+iosynch-manduub
